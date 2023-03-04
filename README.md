@@ -5,7 +5,7 @@
 ### Source
 
 ```shell
-git clone git://g.csail.mit.edu/6.5840-golabs-2023 lab2023
+git clone git://g.csail.mit.edu/6.5840-golabs-2023 6.5840
 ```
 
 ### Lab
